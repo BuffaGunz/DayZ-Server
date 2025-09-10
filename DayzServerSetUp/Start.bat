@@ -2,7 +2,7 @@
 TITLE DayzServer
 COLOR 0A
 :: DEFINE variables
-SET SteamLogin= BuffaGunz Queensland95
+SET SteamLogin= Username Password
 SET DayZBranch=223350
 SET DayZServerPath="C:\DayZServer"
 SET SteamCMDPath="C:\SteamCMD"
@@ -122,3 +122,4 @@ set "SERVERMODS_TO_LOAD=!SERVERMODS_TO_LOAD:~0,-1!"
 echo Will start DayZ with the following mods: !MODS_TO_LOAD!%
 timeout 3 >nul
 goto startServer
+
