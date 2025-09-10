@@ -1,5 +1,5 @@
 DayZ Server Set Up. 
-Start.bat \\ Starts the server ets the mods and points to all nessacery paths..
+Start.bat \\ Starts the server sets the mods, ports and paths you want loaded you want loaded.
 ServerDZ.cfg \\ Controls server settings
 ModClient.txt\\ Updates client mods.
 ModServer.txt \\ Updates server mods.
